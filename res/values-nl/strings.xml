@@ -92,4 +92,5 @@
   <string name="clear_files_summary">Verwijder bestaande update bestanden om te forceren dat de hele update word gedownload</string>
   <string name="clean_files_feedback" formatted="false">%d Bestanden verwijderd. Klik nu \'Controleer voor updates\'</string>
   <string name="state_error_permissions">Geen opslag-machtigingen.</string>
+  <string name="state_error_flash">Voorbereiden flashen mislukt. Wis /cache en probeer opnieuw.</string>
 </resources>
